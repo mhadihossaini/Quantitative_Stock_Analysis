@@ -1,4 +1,4 @@
-# Quantitative Stock Analysis: Integrating Information Theory with Machine Learning for Market Prediction
+## Quantitative Stock Analysis: Integrating Information Theory with Machine Learning for Market Prediction
 
 ## Overview
 This project aims to revolutionize stock market predictions by integrating advanced information theory concepts with machine learning models. 
