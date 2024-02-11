@@ -22,3 +22,7 @@ Necessary Python packages: numpy, pandas, matplotlib, seaborn, sklearn, and othe
 Clone this repository to your local machine.
 
 git clone https://github.com/mhadihossaini/Quantitative_Stock_Analysis.git
+
+Install the required Python packages.
+
+pip install -r requirements.txt
